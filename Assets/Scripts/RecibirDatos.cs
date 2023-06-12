@@ -5,7 +5,7 @@ using System.IO.Ports;
 
 public class RecibirDatos : MonoBehaviour
 {
-    SerialPort myPort = new SerialPort("\\\\.\\COM5", 9600);
+    SerialPort myPort = new SerialPort("COM5", 9600);
     // Use this for initialization
     void Start()
     {
