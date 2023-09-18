@@ -2199,10 +2199,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5b8e2acb143db64198ba5686e00c3bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkButton: {fileID: 0}
-  runButton: {fileID: 0}
-  atackButton: {fileID: 0}
-  jumpButton: {fileID: 0}
+  walkButton: {fileID: 741325689}
+  runButton: {fileID: 993351152}
+  atackButton: {fileID: 2021058960}
+  jumpButton: {fileID: 345634910}
 --- !u!1 &1477740095
 GameObject:
   m_ObjectHideFlags: 0

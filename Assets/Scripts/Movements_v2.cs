@@ -1,4 +1,11 @@
-﻿using UnityEngine;
+﻿/**
+ * Script: Movements_v2
+ * Description: This script manages character movements and actions in a Unity game. 
+ * It connects to UI buttons for walk, run, attack, and jump actions, triggering animations 
+ * and handling button activations based on user input and game conditions.
+ */
+
+using UnityEngine;
 
 public class Movements_v2 : MonoBehaviour
 {

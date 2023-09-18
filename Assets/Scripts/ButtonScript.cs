@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/**
+ * Script: ButtonScript
+ * Description: This script changes the Image component of a Button 
+ * It's capable of change the sprite of the source image.
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

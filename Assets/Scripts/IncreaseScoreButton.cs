@@ -1,4 +1,9 @@
-﻿using UnityEngine;
+﻿/**
+ * Script: IncreaseScoreButton
+ * Description: This script call the IncreaseScore function of the ScoreManager object
+ */
+
+using UnityEngine;
 using UnityEngine.UI;
 
 public class IncreaseScoreButton : MonoBehaviour

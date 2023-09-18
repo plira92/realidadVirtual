@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/**
+ * Script: BTCommunication
+ * Description: This script is responsible for BT communication.
+ * It decodes the serial message and sets the corresponding variable to true based on the selected action.
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using ArduinoBluetoothAPI;
